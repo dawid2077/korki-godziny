@@ -5,3 +5,6 @@ godzina+ 30min (koniec 18:40)
 
 25.10.2026
 godzina+ 10min (koniec 18)
+
+28.10.2026
+godzina (koniec 2030)
