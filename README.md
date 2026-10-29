@@ -12,4 +12,4 @@ godzina (koniec 2030)
 
 
 29.10.2026
-2 godzina
+2 godzina (koniec 2030)
